@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "title": "Pickleball Explained: Why Everyone’s Playing",
+    "description": "Pickleball has exploded in popularity, becoming the fastest-growing sport in America—but what actually makes it so fun and addictive? In this webinar, we’ll cover the basics of the game, how it blends elements of tennis, ping-pong, and badminton, and why it’s easy for anyone to pick up. We’ll also explore its surprising rise in culture, from neighborhood courts to professional leagues. Whether you’re a curious beginner or just wondering what the hype is about, this session will get you in the game.",
+    "author": "Webinar Maker Pro",
+    "domain": "educational",
+    "duration": 10,
+    "created": "2025-08-19T04:14:12.147Z",
+    "version": "1.0.0",
+    "language": "en-US",
+    "theme": {
+      "primaryColor": "#8b5cf6",
+      "secondaryColor": "#7c3aed",
+      "fontFamily": "Inter, system-ui, sans-serif",
+      "codeTheme": "github"
+    }
+  },
+  "slides": [
+    {
+      "id": "s1",
+      "content": {
+        "type": "title",
+        "title": "Welcome and the Pickleball Phenomenon",
+        "subtitle": "An AI-Generated Presentation",
+        "presenter": "Webinar Maker Pro",
+        "date": "2025-08-19"
+      },
+      "speakerNotes": "- Smile, greet the room, and set energy. Spend ~10 seconds acknowledging the hype and framing the session\n- 20 seconds: Define pickleball in one sentence; emphasize small court, paddle, plastic ball, mostly doubles\n- 25 seconds: Hit 3 reasons for growth—easy to learn, social doubles, accessible/affordable—use a relatable example\n- 15 seconds: Explain the tennis + ping-pong + badminton blend; point to how each shows up on court\n- 10 seconds: Roadmap what’s coming—basics, culture, safe start—and transition to the next section\n- Interaction: Quick show of hands—“Who has played? Who’s brand new?” Pause for 3–4 seconds\n- Reminder: Keep pace brisk; no deep rules yet. Promise we’ll cover safety and etiquette soon\n- Technical: Advance to next slide at the transition cue",
+      "narration": "Welcome, everyone!... If you’ve been hearing about pickleball everywhere, you’re in the right place... In the next few minutes, we’ll demystify what it is and why so many people are hooked.\nPickleball is a paddle-and-ball game played on a badminton-sized court with a low net and a perforated plastic ball... Think of it as tennis, ping-pong, and badminton blended together: tennis-style net play and angles, the touch and quick reactions of ping-pong, and a smaller court that rewards placement over power.\nSo why the craze?... The rules are simple, the learning curve is short, and you can rally within minutes... Doubles makes it social and welcoming across ages and skill levels... The smaller court means more ball touches and less running than tennis, and starter gear is inexpensive with many public courts available.\nToday, we’ll cover the basics—court, equipment, rules, and scoring—highlight the culture from neighborhood courts to professional leagues, and show you how to get started safely and confidently... Let’s jump in and see why everyone’s playing.",
+      "duration": 1.2,
+      "transition": "fade",
+      "componentPath": "./components/slides/Slide_s1.tsx",
+      "audioPath": "/audio/slide-s1.mp3"
+    },
+    {
+      "id": "s2",
+      "content": {
+        "type": "markdown",
+        "title": "What Is Pickleball? The Blend of Tennis, Ping-Pong, and Badminton",
+        "markdown": "**What it is**: A paddle-and-ball court sport, usually doubles, on a 20×44 ft court with a 36 in net at posts (34 in center) and a perforated plastic ball\n**How it blends**: Tennis-style net play and positioning + ping-pong feel and touch/spin + badminton-sized court emphasizing placement over power\n**Why it’s fun**: Low learning curve; quick rallies and lots of ball contacts; social doubles format; smaller court means more play, less running; affordable gear and many public courts\n**Rules snapshot**: Underhand serve below the waist, diagonally; two-bounce rule on the serve; non-volley zone (“kitchen”) is 7 ft—no volleys while in or on the line; common rec scoring is side-out to 11, win by 2\n**Accessible for everyone**: Easy to pick up at any age; skills transfer from tennis/ping-pong/badminton; great for schools, parks, and clubs\n```mermaid\nflowchart LR\nA[\"Tennis: net play, angles, doubles movement\"] --> D[\"Pickleball\"]\nB[\"Ping-Pong: solid paddles, touch, spin\"] --> D[\"Pickleball\"]\nC[\"Badminton: compact court, placement over power\"] --> D[\"Pickleball\"]\n```"
+      },
+      "speakerNotes": "Timing: 1.3 minutes total\n- 0:00–0:10 Open with the blend hook; set context that this is the fastest-growing sport\n- 0:10–0:30 Define the sport: court size, net height, ball, mostly doubles\n- 0:30–0:50 Walk the blend: point to Mermaid diagram; connect tennis, ping-pong, badminton\n- 0:50–1:05 Why it’s fun: quick rallies, social, low barrier, affordable\n- 1:05–1:20 Rules snapshot: underhand serve, two-bounce rule, kitchen, basic scoring\n- 1:20–1:18 Quick wrap and transition: tell them we’ll show the court and core rules next\nStage directions:\n- Show the diagram as you describe the blend; gesture to each source sport\n- Pause briefly after “two-bounce rule” to ensure it lands\n- Ask for a quick show of hands: who’s tried a dink or heard of the kitchen?\n- Emphasize inclusivity: suitable for schools, parks, and beginners\nTechnical reminders:\n- Advance to next slide with court layout immediately after this section\n- Keep pace brisk—avoid deep dives; details come later",
+      "narration": "If tennis and ping-pong had a baby on a badminton court, you’d get pickleball—and that’s a big reason it’s exploding across neighborhoods and pro leagues alike... Here’s what it is in under a minute... It’s a paddle-and-ball game, usually played as doubles, on a compact twenty-by-forty-four foot court... The net is thirty-six inches at the posts, thirty-four in the center, and you play with a lightweight, perforated plastic ball... The magic is the blend... From tennis, you get net play, angles, and smart doubles positioning... From ping-pong, you get the feel of a solid paddle, touch, and spin... From badminton, you get the smaller court and an emphasis on placement over raw power... Why is it so fun and addictive?... The learning curve is short, rallies start quickly, you get a lot of ball touches without a lot of running, and the social doubles format keeps it welcoming... Starter gear is inexpensive, and many public courts are free... A quick rules snapshot: serves are underhand and diagonal, the ball must bounce once on each side after the serve before anyone can volley, and you can’t volley while standing in the seven-foot non-volley zone, the kitchen... Most rec games play to eleven, win by two... Next, we’ll map the court and show you the serve and two-bounce rule in action.",
+      "duration": 1.3,
+      "transition": "fade",
+      "componentPath": "./components/slides/Slide_s2.tsx",
+      "audioPath": "/audio/slide-s2.mp3"
+    },
+    {
+      "id": "s3",
+      "content": {
+        "type": "markdown",
+        "title": "Why It’s So Fun and Easy to Love",
+        "markdown": "- **Low barrier, fast wins**: small court, underhand serve, simple rules mean beginners rally in minutes\n- **More play, less strain**: slower ball and compact space = more touches, longer rallies, less running\n- **Social by design**: doubles format encourages teamwork, laughs, and inclusive play across ages\n- **Affordable access**: low-cost starter paddles and many public courts make entry easy\n- **Familiar feel**: skills from tennis, ping-pong, and badminton transfer quickly\n```mermaid\nflowchart TD\nA[\"Low barrier\"] --> B[\"Quick rallies\"]\nB --> C[\"Immediate reward\"]\nC --> D[\"Social connection\"]\nD --> E[\"Motivation to return\"]\nE --> A\n```"
+      },
+      "speakerNotes": "- 0:00–0:05: Step forward, upbeat tone. Frame this as the heart of the hype: fun and ease.\n- 0:05–0:30: Walk through bullets quickly—~5 seconds each. Emphasize underhand serve, small court, doubles culture.\n- 0:30–0:40: Point to the feedback-loop diagram. Say “low barrier leads to quick rallies, rewards, social pull, repeat.”\n- 0:40–0:45: Quick interaction: “Show of hands—who had a rally in their first five minutes?” Acknowledge responses.\n- 0:45–0:48: Transition: “Next, we’ll connect this to the basics you need to start safely.” Advance slide.",
+      "narration": "Pickleball is fun and easy because the barrier to entry is low... With a small court and an underhand serve, beginners rally within minutes right away... The ball moves slower than a tennis ball, so you get more touches and longer rallies without all the sprinting... Doubles is the default, which means laughter, teamwork, and mixing skill levels and ages... Starter gear is inexpensive and many public courts are available, so it’s simple to try... And if you’ve played tennis, ping-pong, or badminton, your skills transfer... Those quick successes create a flow and a simple loop: you improve each game, meet new people, and want to come back again.",
+      "duration": 0.8,
+      "transition": "fade",
+      "componentPath": "./components/slides/Slide_s3.tsx",
+      "audioPath": "/audio/slide-s3.mp3"
+    },
+    {
+      "id": "s4",
+      "content": {
+        "type": "markdown",
+        "title": "Quick Tour: Court, Equipment, and Safe Footwear",
+        "markdown": "- Court at a glance: 20×44 ft; non-volley zone (\"kitchen\") is 7 ft from the net; net 36 in at posts, 34 in at center\n- Gear essentials: midweight paddle (about 7.8–8.3 oz); balls—outdoor = harder/smaller holes, indoor = slightly softer/larger holes; optional eye protection\n- Safe footwear: wear court shoes with lateral support; avoid running shoes; use lace-lock if heel slips\n- Quick safety check: 5-min dynamic warm-up, hydrate, call \"ball on\" to pause play, don’t backpedal—turn and run\n- Demo plan: mark NVZ with tape/cones, check net height at center, bounce-test indoor vs outdoor balls, side-to-side shoe stability test\n```mermaid\nflowchart LR\n  A[\"Arrive at court\"] --> B[\"Check lines & net: 20x44 ft, NVZ 7 ft, net 34 in center\"]\n  B --> C[\"Pick paddle (7.8–8.3 oz) & ball (indoor/outdoor)\"]\n  C --> D[\"Footwear check: court shoes + lace-lock if needed\"]\n  D --> E[\"Quick warm-up & hydration\"]\n  E --> F[\"Ready to rally\"]\n```"
+      },
+      "speakerNotes": "0:00 Switch to overhead court graphic. Point out 20×44 ft and the 7 ft kitchen on both sides. Briefly note net height: 36 in posts, 34 in center. Spend ~10 sec.\n0:10 Hold a paddle up to camera. Mention midweight ~7.8–8.3 oz. Show two balls: outdoor (harder/smaller holes) vs indoor (slightly softer/larger holes). Do a quick bounce test so viewers hear the difference. Spend ~15 sec.\n0:25 Camera to feet. Show court shoes vs running shoes: twist/flex demo, point out lateral sidewalls. Demonstrate quick lace-lock (loop through top eyelets, pull snug). Spend ~15 sec.\n0:40 Safety wrap: warm up 5 min, hydrate, optional eyewear, call “ball on,” and don’t backpedal—turn and run. Spend ~8 sec.\nPrompts: Ask live chat to type which ball they use (indoor/outdoor). Quick show of hands: who’s wearing running shoes today?\nTechnical: Keep tape or cones visible on the NVZ line; center-strap the net if available; keep both balls within reach.",
+      "narration": "Here’s a quick tour to get you safely on court... This rectangle is twenty by forty-four feet, and the seven-foot non-volley zone—also called the kitchen—sits on both sides of the net... The net is thirty-six inches at the posts and thirty-four in the center... For gear, grab a midweight paddle, and match your ball to the surface: outdoor balls are a bit harder with smaller holes, indoor balls are slightly softer with larger holes... Footwear matters most: choose court shoes with strong lateral support, not running shoes... If your heel slips, use a simple lace-lock... Quick safety check: warm up for five minutes, hydrate, consider eye protection, and call “ball on” to pause play... And remember—don’t backpedal for lobs; turn and run... Lines checked, gear set, shoes dialed—you’re ready to rally.",
+      "duration": 0.8,
+      "transition": "fade",
+      "componentPath": "./components/slides/Slide_s4.tsx",
+      "audioPath": "/audio/slide-s4.mp3"
+    },
+    {
+      "id": "s5",
+      "content": {
+        "type": "markdown",
+        "title": "Rules in a Minute: Serve, Two-Bounce Rule, Kitchen, and Scoring",
+        "markdown": "- Serve basics\n  - Underhand only; contact below the waist; paddle swings upward; feet behind baseline\n  - Serve diagonally cross-court; one try (let serves are playable if they land in)\n  - Call the score before you serve\n- Two-bounce rule\n  - On the serve, ball must bounce once on the returner’s side and once on the server’s side before any volley\n- Kitchen (Non-Volley Zone)\n  - 7 ft from the net; you can enter to hit a ball that bounced\n  - No volleys while any part of you touches the NVZ or its line; re-establish both feet outside before volleying\n- Scoring (rec standard)\n  - Side-out scoring to 11, win by 2; only the serving team scores\n  - Doubles call format: server score – receiver score – server # (1 or 2); first serve of game starts as “0-0-2”\n```text\nScore call examples\nStart: 0-0-2\nServer says: 5-4-1 (first server on the team)\nIf rally won by servers: next call 6-4-1\nIf rally lost: partner serves → 5-4-2\n```\n```mermaid\nflowchart TD\nA[\"Call score\"] --> B[\"Underhand serve diagonally (below waist)\"]\nB --> C[\"Return must bounce once\"]\nC --> D[\"Serving team lets next shot bounce\"]\nD --> E[\"After two bounces: volleys allowed outside Kitchen\"]\nE --> F{\"Feet in Kitchen?\"}\nF -->|Yes| G[\"No volley — let it bounce or exit first\"]\nF -->|No| H[\"Volley allowed\"]\n```"
+      },
+      "speakerNotes": "- 0:00–0:05 Pause to show the slide title, then point to the four headings: Serve, Two-Bounce, Kitchen, Scoring.\n- 0:05–0:20 Demonstrate the serve motion: underhand, contact below waist, diagonal target. Say a sample score aloud before the demo.\n- 0:20–0:30 Emphasize the two-bounce rule; mime letting the ball bounce on each side.\n- 0:30–0:40 Step to the NVZ line; show stepping in to dink a bounce, then stepping back out before a volley.\n- 0:40–0:55 Explain scoring with one quick example: 5-4-1 → win rally → 6-4-1; lose rally → 5-4-2. Note only servers score; games to 11, win by 2.\n- 0:55–1:00 Reinforce why these rules create longer rallies and make play beginner-friendly. Quick check: “Questions on serve, two-bounce, or kitchen?”\n- Technical reminder: Advance to the Mermaid flowchart while describing the sequence; highlight each step with the cursor.",
+      "narration": "Let’s lock in the core rules that make pickleball easy to start and super fun... First, the serve: it’s underhand, contact below your waist, swung upward, and hit diagonally cross-court... You get one attempt, and you must call the score before you serve... Now the two-bounce rule: on the serve, the return has to bounce once, and then the serving team’s next shot must also bounce... After those two bounces, either side can volley... Next, the Kitchen, or non-volley zone—the seven feet by the net... You can step in to play a ball that bounced, but you can’t volley while any part of you touches the Kitchen or its line... Step back out before you volley... Finally, scoring for most rec play is side-out to eleven, win by two... Only the serving team scores... In doubles, call server score, receiver score, then server number—so you’ll start a game with zero-zero-two... These simple rules create longer rallies, quick feedback, and a friendly learning curve.",
+      "duration": 1,
+      "transition": "fade",
+      "componentPath": "./components/slides/Slide_s5.tsx",
+      "audioPath": "/audio/slide-s5.mp3"
+    },
+    {
+      "id": "s6",
+      "content": {
+        "type": "markdown",
+        "title": "Live Demo: Serve Mechanics, Two-Bounce Timing, and Kitchen Awareness",
+        "markdown": "- Serve mechanics: underhand swing; contact below waist; behind baseline; aim diagonally cross-court; call the score before serving\n- Two-bounce rule: serve must bounce on receiver; return must bounce on server; only then can anyone volley; early volley = fault\n- Kitchen awareness: no volley while in/on NVZ line; step in only after a bounce; control momentum so feet don’t carry you into NVZ\n- Quick cues: low-to-high swing; watch for bounce-bounce; heels soft near the line; say “ball on” to stop play\n```mermaid\nflowchart TD\nS[\"Serve: underhand, below waist, diagonal\"] --> B1[\"Bounce 1: lands on receiver\"]\nB1 --> R[\"Return: after bounce\"]\nR --> B2[\"Bounce 2: lands on server\"]\nB2 --> OK[\"Now volleys allowed\"]\nOK --> V[\"Volley attempt\"]\nV --> K[\"Kitchen check: feet not on/in NVZ\"]\nK -->|Feet outside NVZ| Legal[\"Legal volley\"]\nK -->|Foot on/in NVZ| Fault[\"Fault: kitchen violation\"]\nR -->|Early volley on serve| Fault\nS -->|Serve fault: out or net| Fault\n```"
+      },
+      "speakerNotes": "- 0:00 Show demo area; camera wide. Hold paddle and ball. Briefly point to baseline and kitchen line.\n- 0:02 Serve mechanics (15s). Stage: Stand behind baseline, call a sample score. Underhand swing, contact below waist, ball travels diagonally. Repeat once. Emphasize one attempt.\n- 0:17 Two-bounce timing (18s). Stage: Serve, let it bounce on receiver side. Partner returns with a bounce; let it bounce on server side. Then demonstrate a legal volley. Repeat a quick incorrect example: partner volleys the serve out of the air—call “fault.”\n- 0:35 Kitchen awareness (18s). Stage: Point to NVZ line. Demo legal volley with feet clearly behind line; freeze your finish. Then show illegal momentum carry: step over line after volley—call “fault.” Follow with legal step-in after a bounced ball.\n- 0:53 Safety wrap (5s). Say: “No backpedaling—turn and run; call ‘ball on’ to stop play.”\n- 0:58 Gesture to slide diagram for quick visual recap. Transition to next section.\n- Tech: Ensure camera captures your feet and the NVZ line during kitchen demo; mic close for score callouts.",
+      "narration": "Watch how easy this is... First, serving: I’m behind the baseline, feet set... I call the score, then swing underhand with the paddle moving upward, make contact below my waist, finish forward, and aim diagonally cross‑court... One try only on the serve... Now the two‑bounce rule... My serve must bounce once on the receiver’s side... On the return, the ball must bounce on the serving side as well... Only after those two bounces can either team volley... If the returner takes the serve out of the air, that’s a fault... Next, kitchen awareness... This seven‑foot non‑volley zone by the net: you cannot volley with any part of your foot on or in it, including the line... Watch—after a bounce, I can step in to play it... For a volley, I plant behind the line, strike, and hold my balance so momentum doesn’t carry me in... Two quick safety tips: never backpedal—turn and shuffle instead, and call “ball on” if a stray ball enters... That’s the core: clean serve, wait for two bounces, and respect the kitchen.",
+      "duration": 1,
+      "transition": "fade",
+      "componentPath": "./components/slides/Slide_s6.tsx",
+      "audioPath": "/audio/slide-s6.mp3"
+    },
+    {
+      "id": "s7",
+      "content": {
+        "type": "markdown",
+        "title": "Key Shots and Simple Strategies: Dinks, Third-Shot Drops, and Drives",
+        "markdown": "- **Dink (soft control)**: Gentle shot that lands in the kitchen; aim cross-court; keep paddle face slightly open and contact out front\n- **Third-Shot Drop (after serve)**: Arc the ball 3–5 ft over the net so it falls in the kitchen; move forward together to the NVZ line\n- **Drive (apply pressure)**: Fast, flat ball to body/feet when the return is high; expect a block and be ready to reset softly\n- **Simple plan**: Serve deep, return deep; choose drop ~70% and drive ~30%; win with patience at the NVZ, not raw power\n```mermaid\nflowchart LR\nS[\"Serve (underhand)\"] --> R[\"Return (deep)\"]\nR --> Q[\"Third shot: assess height\"]\nQ -->|low or neutral| Drop[\"Drop: arc to kitchen\"]\nQ -->|high sitter| Drive[\"Drive: fast to body/feet\"]\nDrop --> NVZ[\"Advance to NVZ and dink\"]\nDrive --> Block[\"Expect block; reset softly\"]\nBlock --> NVZ\nNVZ --> Win[\"Create error or pop-up\"]\n```"
+      },
+      "speakerNotes": "- Spend 5s setting context: “These three shots make the game feel fun and rally-heavy.”\n- 15s on Dink: Demonstrate paddle face and soft touch; pause 2s to let it land in the kitchen on screen.\n- 20s on Third-Shot Drop: Tie to two-bounce rule; cue \"3–5 ft over net, land in kitchen, move forward.\" Mime two small steps to NVZ. Emphasize both partners advancing.\n- 10s on Drive: Show a compact swing; remind to aim at body/feet; add “be ready for the block, then reset softly.”\n- 8s on Simple plan: Serve/return deep; drop most, drive some; patience at NVZ wins.\n- 7s: Reveal Mermaid diagram; trace the flow from serve to NVZ; pause 1s at each node.\n- Quick interaction (optional, 3s): “Thumbs up—who’s tried a dink rally?”\n- Timing cue: Keep total to 60s; if behind, shorten Drive explanation.\n- Technical reminder: Ensure diagram is visible before speaking to it.",
+      "narration": "Let’s lock in the three shots that make pickleball feel smooth and addictive: the dink, the third-shot drop, and the drive... First, the dink... It’s a gentle shot that lands in the kitchen, usually cross‑court... Keep your paddle face slightly open, contact the ball out in front, and let it bounce near the net... This is about touch, like ping‑pong at the table, and it sets up errors... Next, the third‑shot drop... After your serve and their return, your team’s third shot is the moment to neutralize... Float the ball three to five feet over the net so it falls into the kitchen, and move forward together to the non‑volley line... Now the drive... If the return sits up, hit a fast, flat ball to the body or feet... Expect a block, and be ready to reset with a soft shot on the next ball... Simple plan: serve deep, return deep, choose the drop most of the time and the drive when it’s there, and win with patience at the kitchen... That’s the heartbeat of good rallies.",
+      "duration": 1,
+      "transition": "fade",
+      "componentPath": "./components/slides/Slide_s7.tsx",
+      "audioPath": "/audio/slide-s7.mp3"
+    },
+    {
+      "id": "s8",
+      "content": {
+        "type": "markdown",
+        "title": "Culture and Growth: Quick Poll and Key Trends",
+        "markdown": "- **Quick poll:** Where did you first hear about pickleball? Vote now or drop a letter in chat: F Friend/neighbor, S Social/media, W Work/school, C Club/gym, O Other\n- Fastest-growing U.S. sport for multiple years; both casual and core participation still rising into 2024\n- Culture shift: from neighborhood courts to pro tours and team leagues; celebrity investment and nonstop streaming\n- Facilities boom: dedicated indoor clubs, tennis-to-pickleball conversions, smarter noise solutions\n- Why it sticks: small court, social doubles, quick rallies—easy to start, rewarding to keep playing\n```mermaid\nflowchart LR\nDiscover[\"Hear from a friend or media\"] --> Try[\"First open play or clinic\"]\nTry --> Connect[\"Meet partners and join group chats\"]\nConnect --> Compete[\"Local ladders, rec nights, watch pros\"]\nCompete --> Sustain[\"Weekly habit and community identity\"]\n```"
+      },
+      "speakerNotes": "- 0:00 Switch to poll widget. Say: “Quick poll: Where did you first hear about pickleball? Use the poll or type F, S, W, C, or O in chat.”\n- 0:05 Pause ~8 seconds for votes. If chat is quiet, prompt: “Seeing lots of F and S—friend referrals and social media lead the way.”\n- 0:13 Show the flowchart. Connect poll results to trends: fastest-growing sport; culture from neighborhoods to PPA/APP and MLP; celebrity and streaming visibility.\n- 0:30 Hit facilities: conversions, indoor clubs, and noise mitigation. Keep it to one sentence.\n- 0:40 Close with why it sticks: small court, social doubles, quick wins. Tie to education/community: easy to adopt in schools and parks.\n- 0:55 Transition: “Next, we’ll break down the court and the few rules you need to start playing.”\n- Technical: Ensure poll is launched; be ready to reference any option with highest votes.",
+      "narration": "Quick poll: Where did you first hear about pickleball?... Use the poll, or type F, S, W, C, or O in chat... What you’re seeing mirrors the national trend: pickleball has been the fastest-growing U.S... sport for multiple years, with both casual and core participation still rising into 2024... Culturally, it’s moving from neighborhood courts to pro tours like PPA and APP, plus team leagues such as MLP, fueled by celebrity investment and constant streaming clips... Facilities are racing to keep up—more dedicated indoor clubs, tennis-to-pickleball conversions, and better noise mitigation... Why does it stick?... A short learning curve, a small court, and social doubles deliver quick rallies and confidence, without feeling outmatched... Wherever you discovered it, there’s a clear path from first try to weekly habit, as communities form and play becomes part of the routine... Next, we’ll break down the court and the few rules you need to start playing.",
+      "duration": 1,
+      "transition": "fade",
+      "componentPath": "./components/slides/Slide_s8.tsx",
+      "audioPath": "/audio/slide-s8.mp3"
+    },
+    {
+      "id": "s9",
+      "content": {
+        "type": "markdown",
+        "title": "Getting Started: Where to Play, Safety, and Inclusive Options",
+        "markdown": "- Where to play: public parks, school gyms, rec centers, dedicated clubs; look for \"open play\", beginner socials, and city rec classes\n- What to bring: midweight paddle, indoor/outdoor balls for your venue, court shoes, water; optional eye protection; keep a spare ball\n- Safety first: 5–8 min dynamic warm-up; court shoes (not running); hydrate, sunscreen; call \"ball on\"; turn and run—don’t backpedal\n- Inclusive options: wheelchair/para rules, slower balls and drills, beginner-only hours, loaner paddles, light use of ratings to match play\n- Quick setup anywhere: portable net + tape lines; mark the kitchen; post a one-page rules and etiquette cheat sheet\n\n```mermaid\nflowchart TD\nStart[\"Find place to play\"]\nWhere[\"Parks, rec centers, gyms, clubs\"]\nPrepare[\"Warm-up, proper shoes, water, eyewear\"]\nInclude[\"Beginner hours, adaptive options, loaner gear\"]\nPlay[\"Safe, fun games\"]\nStart --> Where --> Prepare --> Include --> Play\n```"
+      },
+      "speakerNotes": "- Spend ~10s: Point to the first bullet. Ask: “Who has a park or rec center nearby?” Emphasize open play/beginner socials.\n- Spend ~18s: Safety checklist—hold up shoes if possible; stress warm-up, hydration, sunscreen, and calling “ball on.” Remind: turn and run, don’t backpedal.\n- Spend ~10s: Inclusive options—mention wheelchair/para rules, slower balls/drills, beginner-only hours, and loaner paddles. Encourage light use of ratings.\n- Spend ~4s: Quick setup—portable nets and tape; mark the kitchen; post a one-page cheat sheet.\n- Stage directions: Show the Mermaid flow from left to right as you speak; briefly trace the path with the cursor. Pause for 1–2 seconds to check nods. Advance to next section.",
+      "narration": "Let’s get you on a court... Check local parks, rec centers, school gyms, or dedicated clubs, and look for open play or beginner socials... Bring a midweight paddle, indoor or outdoor balls for your venue, court shoes, and water; eye protection is a smart bonus... Do a five to eight minute dynamic warm‑up, wear shoes with lateral support, hydrate and use sunscreen, call ball on if one rolls in, and turn and run instead of backpedaling... To keep it inclusive, seek beginner hours, use loaner paddles, try slower balls or wheelchair formats, and match by general level... Portable nets and tape make quick pop‑up courts anywhere.",
+      "duration": 0.7,
+      "transition": "fade",
+      "componentPath": "./components/slides/Slide_s9.tsx",
+      "audioPath": "/audio/slide-s9.mp3"
+    },
+    {
+      "id": "s10",
+      "content": {
+        "type": "markdown",
+        "title": "Wrap-Up and Next Steps: Actionable Takeaways and Resources",
+        "markdown": "- **Quick recap:** Tennis + ping-pong + badminton = fast, social, easy-to-learn\n- **Do this week:** Find a beginner session; bring a midweight paddle, 2 balls, court shoes\n- **Play smart:** Learn serve, two-bounce rule, and the kitchen; warm up 5–8 min; call the score and \"ball on\"\n- **Join & level up:** Open play, rotate partners, practice dinks/third-shot drop; try a clinic or light DUPR matching\n- **Resources:** USA Pickleball rulebook/specs; local parks/club schedules; PPA/APP/MLP to watch pros; safety/setup checklist\n\n```mermaid\nflowchart TD\nA[\"Start\"] --> B[\"Find beginner session\"]\nB --> C[\"Learn basics: serve, two-bounce, kitchen\"]\nC --> D[\"Play open sessions\"]\nD --> E[\"Level up: dinks, third-shot drop, clinic\"]\nE --> F[\"Share & invite others\"]\n```"
+      },
+      "speakerNotes": "- 0:00–0:10 Recap why it’s popular and accessible (blend of tennis, ping-pong, badminton). Make eye contact; smile.\n- 0:10–0:35 Action 1: Get in the game this week—parks/rec, local clubs, school program. Mention midweight paddle, balls, court shoes. Pause 1s.\n- 0:35–0:55 Action 2: Play smart—serve, two-bounce rule, kitchen; safety—5–8 min warm-up, call score, \"ball on\". Gesture to slide bullets.\n- 0:55–1:10 Action 3: Join community & level up—open play, rotate partners; practice dinks/third-shot; optional clinic; use DUPR lightly.\n- 1:10–1:15 Resources: say \"USA Pickleball rulebook and specs, local schedules, pro tours PPA/APP/MLP\"; note checklist will be shared.\n- 1:15–1:20 Show the Mermaid flow: \"Start → Find → Learn → Play → Level up → Share.\" Point to path.\n- 1:20–1:25 Close: invite questions in chat. Cue co-host to drop links. Thank audience.\n- Technical: Advance to resource slide; cue link drop in chat; stop share after Q prompt.",
+      "narration": "Quick recap before we close: Pickleball blends the net play of tennis, the touch of ping‑pong, and the small‑court strategy of badminton... It’s easy to learn, social, and a great workout without being intimidating... Here are your next steps... First, get in the game this week... Find a beginner session through your parks department, a local club, or your school... Bring a midweight paddle, two indoor or outdoor balls, and court shoes... Second, play smart and safely... Focus on three basics: the underhand serve, the two‑bounce rule, and the non‑volley zone—the kitchen... Warm up for five to eight minutes, call the score before serving, and stop play for a “ball on” if one rolls in... Third, join the community and level up... Try open play, rotate partners, and practice dinks and the third‑shot drop... Consider a clinic, and use ratings like DUPR lightly to find fair matches... For resources, check the USA Pickleball rulebook and court specs, your local rec schedules, and pro tours like the PPA or APP for inspiration... We’ll share a quick setup and safety checklist after the session... Thanks for joining—drop your questions in the chat, and we hope to see you on the court this week.",
+      "duration": 1.2,
+      "transition": "fade",
+      "voice": {
+        "emotion": "friendly",
+        "pace": "slow"
+      },
+      "componentPath": "./components/slides/Slide_s10.tsx",
+      "audioPath": "/audio/slide-s10.mp3"
+    }
+  ],
+  "transitions": {
+    "default": "fade",
+    "duration": 500
+  }
+}
